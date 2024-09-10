@@ -15,3 +15,4 @@ git restore --staged filename
 git diff --staged
 
 git log --oneline
+remote changes here
