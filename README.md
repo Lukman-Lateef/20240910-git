@@ -13,3 +13,5 @@ git restore -- to last commit
 git diff --compares current file with staging area
 git restore --staged filename
 git diff --staged
+
+git log --oneline
